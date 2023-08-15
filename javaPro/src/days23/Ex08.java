@@ -11,7 +11,6 @@ public class Ex08 {
 
    public static void main(String[] args) {
       
-
       String groupName, name, tel;
 
       addPhoneNo( "친구","이자바","010-1111-1111" );
