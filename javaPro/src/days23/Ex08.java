@@ -26,7 +26,6 @@ public class Ex08 {
       addPhoneNo( null, "세탁소","010-8888-8888" );  // 기타
       addPhoneNo( null, "PC방","010-9999-8888" );    // 기타
 
-
       printList();
 
    } // main
@@ -71,5 +70,4 @@ public class Ex08 {
          phoneBook.put(groupName, new HashMap<String, String>());
       }
    }
-
 } // class 
